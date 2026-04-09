@@ -103,7 +103,7 @@ Restaurant: 'bg-orange-100 text-orange-800',
 Education: 'bg-purple-100 text-purple-800',
 'Real Estate': 'bg-teal-100 text-teal-800',
 Services: 'bg-gray-100 text-gray-800',
-Silverware: "bg-black-200 text-white-100",
+Silverware: "bg-slate-950 text-zinc-50",
 };
 
 // =============================================================
@@ -144,7 +144,7 @@ alt={card.name}
 className="w-full h-full object-cover"
 />
 ) : (
-<div className="w-full h-full bg-gray-200 animate-pulse" />
+<div className="w-full h-full bg-gray-200 animate-spin" />
 )}
 </div>
 

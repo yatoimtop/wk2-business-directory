@@ -10,7 +10,7 @@ return (
 Our Mission: Digital Connection
 </h1>
 <p className="text-lg text-gray-600 leading-relaxed">
-We connect professionals together with use of This "Web Site", 
+We connect professionals together with use of This &quot;Web Site&quot;, 
 where professionals can be connected together. On this Web Site. Feel free to use.
 </p>
 </section>
