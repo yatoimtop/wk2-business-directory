@@ -1,4 +1,4 @@
-/name this page.tsx inside about folder
+//name this page.tsx inside about folder
 import React from 'react';
 
 export default function About() {
@@ -10,10 +10,8 @@ return (
 Our Mission: Digital Connection
 </h1>
 <p className="text-lg text-gray-600 leading-relaxed">
-In an increasingly digital world, the personal touch of a business
-card often gets lost. Our directory is designed to bridge that
-gap—bringing local professionals, from Web Developers to Licensed
-Acupuncturists, into one unified, accessible space.
+We connect professionals together with use of This "Web Site", 
+where professionals can be connected together. On this Web Site. Feel free to use.
 </p>
 </section>
 
@@ -22,10 +20,9 @@ Acupuncturists, into one unified, accessible space.
 <section className="space-y-4">
 <h2 className="text-2xl font-bold text-blue-800">The Purpose</h2>
 <p className="text-gray-600">
-This platform serves as a community hub where local services are
-easily discoverable. Whether you are looking for a CPA or a Fitness
-instructor, we aim to foster genuine local partnerships and
-professional growth.
+This is a place for professionals to be discovered. The world is
+very large and the time is now to find them. Up turn digital rocks and see the
+professionals scatter.
 </p>
 </section>
 
