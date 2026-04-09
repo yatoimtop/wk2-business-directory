@@ -103,6 +103,7 @@ Restaurant: 'bg-orange-100 text-orange-800',
 Education: 'bg-purple-100 text-purple-800',
 'Real Estate': 'bg-teal-100 text-teal-800',
 Services: 'bg-gray-100 text-gray-800',
+Silverware: "bg-black-200 text-white-100",
 };
 
 // =============================================================
