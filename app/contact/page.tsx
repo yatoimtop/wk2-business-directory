@@ -48,7 +48,7 @@ function Login() {
                         name='name'
                         id='name'
                         type='name'
-                        class="rounded-xl text-black w-full px-4 py-2 border border-gray-400"
+                        className="rounded-xl text-black w-full px-4 py-2 border border-gray-400"
                         placeholder='Name'
                         onChange={onChange}
                         required
@@ -60,7 +60,7 @@ function Login() {
                         name='email'
                         id='email'
                         type='email'
-                        class="rounded-xl text-black w-full px-4 py-2 border border-gray-400"
+                        className="rounded-xl text-black w-full px-4 py-2 border border-gray-400"
                         placeholder='Password'
                         onChange={onChange}
                         required
@@ -72,7 +72,7 @@ function Login() {
                         name='phonenumber'
                         id='phonenumber'
                         type='phonenumber'
-                        class="rounded-xl text-black w-full px-4 py-2 border border-gray-400"
+                        className="rounded-xl text-black w-full px-4 py-2 border border-gray-400"
                         placeholder='Phone Number'
                         onChange={onChange}
                         required
