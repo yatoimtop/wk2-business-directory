@@ -61,7 +61,7 @@ function Login() {
                         id='email'
                         type='email'
                         className="rounded-xl text-black w-full px-4 py-2 border border-gray-400"
-                        placeholder='Password'
+                        placeholder='Email'
                         onChange={onChange}
                         required
                         />
