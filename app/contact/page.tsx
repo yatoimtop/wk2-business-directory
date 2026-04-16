@@ -35,10 +35,13 @@ function Login() {
         <section className="bg-white p-20 rounded-xl shadow-sm border border-gray-100">
             <div className="max-w-2xl mx-auto py-12 px-1 items-center gap-5">
             {/* Hero Section */}
-                <section className="text-center mb-4">
+                <section className="text-center">
                     <h1 className="text-4xl font-extrabold text-gray-900 mb-1 tracking-tight">
                         Contact
                     </h1>
+                    <p className="text-lg text-gray-600 p-2 leading-relaxed">
+                    Please enter your information to apply for a postion on this site.
+                    </p>
                 </section>
             </div>
                 <div className="grid auto-cols-max grid-col gap-5 place-content-center">
