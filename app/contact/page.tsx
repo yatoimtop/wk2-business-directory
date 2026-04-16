@@ -7,7 +7,7 @@ function Login() {
     // defining the initial state for the form
     const initialState = {
         email: "",
-        password: "",
+        name: "",
         phonenumber: "",
     };
 
@@ -79,7 +79,7 @@ function Login() {
                         />
                     </li>
                     
-                    <button className="rounded-xl bg-black text-lg font-bold p-5" type='submit'>Login</button>
+                    <button className="rounded-xl bg-black text-white text-lg font-bold p-5" type='submit'>Login</button>
                 </div>
         </section>
         </form>
